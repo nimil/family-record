@@ -1,7 +1,6 @@
 ---
+name: family-ledger
 description: 家庭账本 - 记录和查询家庭支出
-allowed-tools: Bash
-argument-hint: [记录/查询/汇总/删除/角色] [参数]
 ---
 
 # 家庭账本
